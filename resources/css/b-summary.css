@@ -74,4 +74,14 @@
   opacity: .5;
 }
 
+.b-summary__button {
+  margin-top: 24px;
+}
+
+@media screen and (min-width: 992px) {
+  .b-summary {
+    max-width: 368px;
+    flex-grow: 1;
+  }
+}
 
