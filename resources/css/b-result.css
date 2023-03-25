@@ -7,10 +7,6 @@
 
 .b-result__title {
   color: var(--blue-light);
-  font-weight: var(--bold);
-  font-size: 1.8em;
-  line-height: 23.45px;
-  margin-bottom: 24px;
 }
 
 .b-result__average {
