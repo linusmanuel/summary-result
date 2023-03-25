@@ -10,3 +10,10 @@ body {
   font-size: 18px;
   margin-bottom: 24px;
 }
+
+@media screen and (min-width: 992px) {
+  .c-title-3 {
+    font-size: 24px;
+    margin-bottom: 35px;
+  }
+}

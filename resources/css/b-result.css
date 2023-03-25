@@ -38,6 +38,7 @@
   font-size: 24px;
   line-height: 31.27px;
   font-weight: var(--bold);
+  margin-bottom: 8px;
 }
 
 .b-result__description {
@@ -51,5 +52,31 @@
   .b-result {
     max-width: 368px;
     border-radius: 30px;
+    padding: 46px;
+  }
+
+  .b-result__average {
+    width: 200px;
+    height: 200px;
+  }
+
+  .b-result__value {
+    font-size: 72px;
+  }
+
+  .b-result__value-1 {
+    font-size: 18px;
+  }
+
+  .b-result__average {
+    margin-bottom: 28px;
+  }
+
+  .b-result__text {
+    font-size: 28px;
+  }
+
+  .b-result__description {
+    font-size: 18px;
   }
 }
