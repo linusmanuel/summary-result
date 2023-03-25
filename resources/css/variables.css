@@ -1,6 +1,6 @@
 :root {
   --bg-gradient-1: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
-  --bg2-gradient-2: linear-gradient(180deg, #4D21C9 0%, rgba(37, 33, 201, 0) 100%, rgba(37, 33, 201, 0) 100%);
+  --bg-gradient-2: linear-gradient(180deg, #4D21C9 0%, rgba(37, 33, 201, 0) 100%, rgba(37, 33, 201, 0) 100%);
   
   --yellow: #FFB21E;
   --yellow-white: linear-gradient(0deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)),

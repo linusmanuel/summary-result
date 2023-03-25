@@ -1,0 +1,52 @@
+.b-result {
+  background: var(--bg-gradient-1);
+  padding: 2.4em 5.7em 4em 5.8em;
+  text-align: center;
+  border-radius: 0 0 30px 30px;;
+}
+
+.b-result__title {
+  color: var(--blue-light);
+  font-weight: var(--bold);
+  font-size: 1.8em;
+  line-height: 23.45px;
+  margin-bottom: 24px;
+}
+
+.b-result__average {
+  background: var(--bg-gradient-2);
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 24px;
+}
+
+.b-result__value {
+  color: var(--white);
+  font-size: 56px;
+  line-height: 72px;
+}
+
+.b-result__value-2 {
+  color: var(--blue-light);
+  font-weight: var(--bold);
+  font-size: 16px;
+}
+
+.b-result__text {
+  color: var(--white);
+  font-size: 24px;
+  line-height: 31.27px;
+  font-weight: var(--bold);
+}
+
+.b-result__description {
+  color: var(--blue-light);
+  font-size: 16px;
+  line-height: 20.85px;
+  font-weight: var(--medium);
+}

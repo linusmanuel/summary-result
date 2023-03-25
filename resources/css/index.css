@@ -1,4 +1,6 @@
 @import url('./reset.css');
 @import url('./components.css');
 @import url('./typograph.css');
-@import url('./variables.css')
+@import url('./variables.css');
+@import url('./b-result.css');
+@import url('./app.css');
