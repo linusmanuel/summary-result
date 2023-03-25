@@ -61,15 +61,17 @@
   font-weight: var(--medium);
 }
 
-.b-summary__value-group span:first-of-type {
+.b-summary__value-group {
   font-weight: var(--bold);
   color: var(--dark);
+}
+
+.b-summary__value-group span:first-of-type {
   opacity: 1;
 }
 
 .b-summary__value-group span:last-of-type {
   opacity: .5;
-  color: var(--dark);
 }
 
 

@@ -1,0 +1,19 @@
+/* BUTTON */
+.c-btn {
+  border: none;
+  background: var(--dark);
+  max-width: 315px;
+  width: 100%;
+  height: 56px;
+  border-radius: 100px;
+  color: var(--white);
+  line-height: 23.45px;
+  font-weight: var(--bold);
+  transition: all 2s;
+  font-size: 18px;
+}
+
+.c-btn:hover {
+  background: var(--bg-gradient-1);
+  transition: all 2s;
+}
