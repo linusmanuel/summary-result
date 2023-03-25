@@ -22,4 +22,11 @@
   
   --dark: #303B59;
   --white: #fff;
+
+  /* FONTS */
+  --display-font: 'Hanken Grotesk',
+    sans-serif;
+  --medium: 500;
+  --bold: 700;
+  --extraBold: 800;
 }
