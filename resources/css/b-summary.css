@@ -82,6 +82,13 @@
   .b-summary {
     max-width: 368px;
     flex-grow: 1;
+    padding: 40px;
+  }
+
+  .b-summary__description,
+  .b-summary__value-group {
+    font-size: 18px;
+    line-height: 23.45px;
   }
 }
 
